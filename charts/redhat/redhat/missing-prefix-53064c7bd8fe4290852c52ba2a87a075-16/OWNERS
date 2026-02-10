@@ -1,0 +1,10 @@
+chart:
+  name: missing-prefix-53064c7bd8fe4290852c52ba2a87a075-16
+  shortDescription: Test chart for testing chart submission workflows.
+publicPgpKey: null
+providerDelivery: false
+users:
+- githubUsername: mgoerens2
+vendor:
+  label: redhat
+  name: "Red Hat"
