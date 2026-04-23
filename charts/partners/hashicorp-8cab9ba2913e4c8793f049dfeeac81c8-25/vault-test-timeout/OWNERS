@@ -1,0 +1,10 @@
+chart:
+  name: vault-test-timeout
+  shortDescription: Test chart for testing chart submission workflows.
+publicPgpKey: null
+providerDelivery: False
+users:
+- githubUsername: mgoerens2
+vendor:
+  label: hashicorp-8cab9ba2913e4c8793f049dfeeac81c8-25
+  name: hashicorp-8cab9ba2913e4c8793f049dfeeac81c8-25
