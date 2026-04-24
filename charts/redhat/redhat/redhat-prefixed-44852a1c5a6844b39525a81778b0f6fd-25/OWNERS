@@ -1,0 +1,10 @@
+chart:
+  name: redhat-prefixed-44852a1c5a6844b39525a81778b0f6fd-25
+  shortDescription: Test chart for testing chart submission workflows.
+publicPgpKey: null
+providerDelivery: false
+users:
+- githubUsername: mgoerens2
+vendor:
+  label: redhat
+  name: "Not Red Hat"
