@@ -1,0 +1,10 @@
+chart:
+  name: vault
+  shortDescription: Test chart for testing chart submission workflows.
+publicPgpKey: null
+providerDelivery: False
+users:
+- githubUsername: mgoerens2
+vendor:
+  label: redhat-6506d67a176746ad8dea95c1859b95f3-25
+  name: redhat-6506d67a176746ad8dea95c1859b95f3-25
